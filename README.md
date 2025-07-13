@@ -112,4 +112,5 @@ This project is built for learning and educational purposes only. Feel free to f
 🙋‍♀️ Author
 Anushree Kadwadkar
 Final Year – B.E. Computer Science
+[GitHub](https://github.com/AnushreeAK)
 Passionate about real-world AI for sustainability and healthcare.
