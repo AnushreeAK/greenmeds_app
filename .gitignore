@@ -1,0 +1,26 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+venv/
+.venv/
+
+# Data or model files
+*.zip
+*.tar.gz
+*.rar
+*.pdf
+*.png
+*.jpg
+*.jpeg
+
+# VSCode and system files
+.vscode/
+.DS_Store
+Thumbs.db
